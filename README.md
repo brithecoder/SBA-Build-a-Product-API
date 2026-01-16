@@ -26,9 +26,9 @@ cd product-api
 
 # Install dependencies
 npm install
-3. Environment Variables
-Create a .env file in the root directory and add your MongoDB connection string:
 ```
+**3. Environment Variables**
+Create a .env file in the root directory and add your MongoDB connection string:
 ```Code snippet
 
 MONGO_URI=mongodb+srv://your_username:your_password@cluster.mongodb.net/your_db_name
